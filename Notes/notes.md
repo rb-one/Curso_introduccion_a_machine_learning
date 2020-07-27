@@ -1,5 +1,48 @@
 # Curso de Introducción a Machine Learning
 
+- [Curso de Introducción a Machine Learning](#curso-de-introducción-a-machine-learning)
+  - [Modulo 1 Conceptos básicos de Machine Learning](#modulo-1-conceptos-básicos-de-machine-learning)
+    - [Clase 1 Bienvenida Curso de Introducción a Machine Learning](#clase-1-bienvenida-curso-de-introducción-a-machine-learning)
+    - [Clase 2 Introduccion a la terminologia de Machine Learning](#clase-2-introduccion-a-la-terminologia-de-machine-learning)
+    - [Clase 3 Terminologia y regresion lineal](#clase-3-terminologia-y-regresion-lineal)
+      - [Construyendo un modelo](#construyendo-un-modelo)
+    - [Clase 4 Training &amp;Loss: Entrenando y ajustando nuestro modelo](#clase-4-training-loss-entrenando-y-ajustando-nuestro-modelo)
+      - [El proceso de aprendizaje](#el-proceso-de-aprendizaje)
+  - [Modulo 2 Trabajando con Pytorch](#modulo-2-trabajando-con-pytorch)
+    - [Clase 5 Introducción a Pytorch, trabajar con tensores y representar datasets con tensores](#clase-5-introducción-a-pytorch-trabajar-con-tensores-y-representar-datasets-con-tensores)
+    - [Clase 6 Trabajando con tensores](#clase-6-trabajando-con-tensores)
+    - [Clase 7 Representando datasets con tensores](#clase-7-representando-datasets-con-tensores)
+  - [Modulo 3 Implementaciones de algoritmos de Machine Learning en Pytorch](#modulo-3-implementaciones-de-algoritmos-de-machine-learning-en-pytorch)
+    - [Clase 8 Implementación de regresión lineal en Pytorch, Regresión logística, Implementación de regresión logística en Pytorch](#clase-8-implementación-de-regresión-lineal-en-pytorch-regresión-logística-implementación-de-regresión-logística-en-pytorch)
+    - [Clase 9 Regresion logistica](#clase-9-regresion-logistica)
+    - [Clase 10 Implementacion de regresion logística en Pytorch](#clase-10-implementacion-de-regresion-logística-en-pytorch)
+  - [Modulo 4 Redes Neuronales y reconocimiento de imágenes](#modulo-4-redes-neuronales-y-reconocimiento-de-imágenes)
+    - [Clase 11 Como funciona el reconocimiento facial](#clase-11-como-funciona-el-reconocimiento-facial)
+    - [Clase 12 Neuronas y funcion de activacion, Usando un modelo pre entrenado para reconocimiento de imagenes, Trabajando un dataset](#clase-12-neuronas-y-funcion-de-activacion-usando-un-modelo-pre-entrenado-para-reconocimiento-de-imagenes-trabajando-un-dataset)
+      - [Contenido adicional](#contenido-adicional)
+    - [Clase 13 Usando un modelo pre entrenado para reconocimiento de imágenes](#clase-13-usando-un-modelo-pre-entrenado-para-reconocimiento-de-imágenes)
+    - [Clase 14 Trabajando un dataset](#clase-14-trabajando-un-dataset)
+  - [Modulo 5 Reconocimiento de imágenes](#modulo-5-reconocimiento-de-imágenes)
+    - [Clase 15 Construyendo un modelo, Implementando un clasificador totalmente conectado, Mejoras, limitaciones y conclusiones](#clase-15-construyendo-un-modelo-implementando-un-clasificador-totalmente-conectado-mejoras-limitaciones-y-conclusiones)
+    - [Clase 16 Implementando un clasificador totalmente conectado](#clase-16-implementando-un-clasificador-totalmente-conectado)
+    - [Clase 17 Mejoras, limitaciones y conclusiones](#clase-17-mejoras-limitaciones-y-conclusiones)
+  - [Modulo 6 Collab con Scikit](#modulo-6-collab-con-scikit)
+    - [Clase 18 Aprende a usar Collab con scikit](#clase-18-aprende-a-usar-collab-con-scikit)
+    - [Clase 19 Demo con Scikit: division de datos](#clase-19-demo-con-scikit-division-de-datos)
+    - [Clase 20 Demo con Scikit: validación de datos](#clase-20-demo-con-scikit-validación-de-datos)
+  - [Modulo 7 Algoritmos más usados en Machine Learning](#modulo-7-algoritmos-más-usados-en-machine-learning)
+    - [Clase 21 Los algoritmos más usados en Machine Learning](#clase-21-los-algoritmos-más-usados-en-machine-learning)
+    - [Clase 22  Algoritmos supervisados en Machine Learning](#clase-22-algoritmos-supervisados-en-machine-learning)
+      - [ML Supervisado - Algoritmos](#ml-supervisado---algoritmos)
+    - [Clase 23 Algoritmos no supervisados en Machine Learning](#clase-23-algoritmos-no-supervisados-en-machine-learning)
+      - [ML No supervisado](#ml-no-supervisado)
+  - [Modulo 8 Bonus: Redes neuronales y herramientas](#modulo-8-bonus-redes-neuronales-y-herramientas)
+    - [Clase 24 Qué es lo que está detrás de una red neuronal](#clase-24-qué-es-lo-que-está-detrás-de-una-red-neuronal)
+    - [Clase 25 Cómo funciona una red convolucional intuitivamente y porque son tan buenas con imágenes](#clase-25-cómo-funciona-una-red-convolucional-intuitivamente-y-porque-son-tan-buenas-con-imágenes)
+    - [Clase 26 Redes generativas](#clase-26-redes-generativas)
+  - [Modulo 9 Cierre](#modulo-9-cierre)
+    - [Clase 27 Conclusiones y siguientes pasos](#clase-27-conclusiones-y-siguientes-pasos)
+
 ## Modulo 1 Conceptos básicos de Machine Learning
 
 ### Clase 1 Bienvenida Curso de Introducción a Machine Learning
@@ -378,8 +421,11 @@ La mayoria de las imagenes fake son por redes generativas adversarias (enfrenta 
 
 ![red_generativa_distriminatoria](src/red_generativa_distriminatoria.png)
 
-### Clase 27
 ## Modulo 9 Cierre
+
+### Clase 27 Conclusiones y siguientes pasos
+
+Conclusiones por ricardo, somos una cubeta llena de huecos, el conocimiento de los cursos es el agua, los huecos son las materias, matemática y otros conocimientos  que no dominas.
 
 
 
